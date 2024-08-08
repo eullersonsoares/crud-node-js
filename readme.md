@@ -4,7 +4,7 @@
 Olá, Dev! 
 Seja bem-vindo(a) a esse repositório. 
 
-Recentemente fui encorajado à estudar node para trabalharmos o desenvolvimento de um sistema de gerenciamento de links na nossa empresa. E esse foi o primeiro código que desenvolvi utilizando node.js
+Recentemente fui encorajado à estudar node para trabalharmos o desenvolvimento de um sistema de gerenciamento de links na nossa empresa. E esse foi o primeiro projeto que desenvolvi utilizando node.js
 
 É um código que realiza as 4 operações básicas no gerenciamento das informações em uma base de dadas (Escrever, Ler, Atualizar e Excluir). 
 
